@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi! My name is Bruno
+I'm a software developer with over 6 years of professional experience. I started my career developing desktop-based applications in 2018, and then focused in full-stack web development.
+
+### 🛠️ Tech stack
+* TypeScript
+* Node.js
+* React.js
+* MySQL | Postgres | SQLite
+* SASS | CSS3
+
+### 📬 Get in touch 
+* [LinkedIn](https://www.linkedin.com/in/bruno-refosco) 
 
 <!--
 **brefosco/brefosco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
