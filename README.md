@@ -5,7 +5,7 @@ I'm a software developer with over 6 years of professional experience. I started
 * TypeScript
 * Node.js
 * React.js
-* MySQL | Postgres | SQLite
+* MySQL | PostgreSQL | SQLite
 * SASS | CSS3
 
 ### 📬 Get in touch 
