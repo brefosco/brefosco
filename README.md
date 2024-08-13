@@ -1,8 +1,6 @@
 # Hi! My name is Bruno
 I'm a senior software developer with over 6 years of professional experience. 
 
-I've been working with agile methodologies in remote teams since 2020, collaborating on complex projects to deliver high-quality solutions. 
-
 ### 🛠️ Tech stack
 * TypeScript
 * Node.js
