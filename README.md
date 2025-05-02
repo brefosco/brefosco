@@ -1,5 +1,5 @@
 # Hi! My name is Bruno
-I'm a senior software developer with over 6 years of professional experience. 
+I'm a senior software developer with over 7 years of professional experience. 
 
 ### 🛠️ Tech stack
 * TypeScript
